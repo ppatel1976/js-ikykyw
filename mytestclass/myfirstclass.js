@@ -4,3 +4,4 @@ export let myobject = {
   name: 'kartik',
   age: 20,
 };
+console.log('my first class js');
